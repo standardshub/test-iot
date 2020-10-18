@@ -1,5 +1,5 @@
 ---
-title: "Manufacturing Reference Architecture: Common"
+title: "Iot Connectivity"
 status: "Draft"
 version: "1.0"
 organisationName: "Open Manufacturing Platform"
