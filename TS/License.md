@@ -1,4 +1,6 @@
-## RAND-RF (Royalty-Free) Mode.
+Copyright 2020 Open Manufacturing Platform
+
+**RAND-RF (Royalty-Free) Mode**
 
 1. **Licensing Commitment**. For materials other than source code developed by the Working Group, each Working Group Participant agrees that it will offer to all applicants a royalty free, nonexclusive, worldwide, non-sub licensable, perpetual patent license to its Necessary Claims on fair, reasonable, and non-discriminatory terms to make, have made, use, import, offer to sell, sell, and distribute conformant implementations of any Approved Deliverable adopted by that Working Group only to the extent it implements the Approved Deliverable and so long as all required portions of the Approved Deliverable are implemented. Source code developed by the Working Group is subject to the license set forth in the Working Group charter.
 
